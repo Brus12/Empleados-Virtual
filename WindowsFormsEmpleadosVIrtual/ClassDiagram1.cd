@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WindowsFormsEmpleadosVIrtual.Empleado">
+    <Position X="4" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAgAAAAACAAAAAAAAAAQBIAAAA=</HashCode>
+      <FileName>Empleado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsEmpleadosVIrtual.EmpleadoAsalariado">
+    <Position X="1" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EmpleadoAsalariado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsEmpleadosVIrtual.EmpleadoXHora">
+    <Position X="3" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EmpleadoXHora.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsEmpleadosVIrtual.EmpleadoPorComision">
+    <Position X="5.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EmpleadoPorComision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsEmpleadosVIrtual.EmpleadoBaseMasComision">
+    <Position X="7" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EmpleadoBaseMasComision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
